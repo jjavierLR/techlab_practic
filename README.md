@@ -1,6 +1,10 @@
 # techlab_practic
 
+<<<<<<< HEAD
 Ejercicio Práctico
+=======
+Ejercicio Práctico Clase 02
+>>>>>>> f4b4e6e1bec92a9f317161279d8cdbff16116c1e
 Primer Desafío: Rompe el Hielo con Node.js
 Tu travesía en TechLab comienza con los cimientos de toda gran aplicación backend:
 comprender y utilizar Node.js. Matías te envía un correo que dice:
